@@ -13,8 +13,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `uptime`,
+      href: "https://uptime.sfun.cc",
     },
   ],
   // blog setting (required)
